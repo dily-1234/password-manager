@@ -1,0 +1,28 @@
+.title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .upload-csv {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .upload-csv-title {
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  
+  .upload-csv-button {
+    margin-top: 20px;
+  }
+
+  .face-id{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
